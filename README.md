@@ -1,1 +1,1 @@
-# OOP syllabus
+# OOP Syllabus
